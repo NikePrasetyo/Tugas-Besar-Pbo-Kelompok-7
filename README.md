@@ -6,4 +6,4 @@ S1S303B Software Engineer
 2. Novi rahmawati - 19104079
 3. Nike Prasetyo - 19104068
 # Class Diagram
-blob:https://web.whatsapp.com/94a7eba2-870b-4f09-8dc7-38eb1491261c
+
