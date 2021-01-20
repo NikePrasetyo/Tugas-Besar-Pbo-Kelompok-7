@@ -7,8 +7,8 @@ S1S303B Software Engineer
 3. Nike Prasetyo - 19104068
 # Class Diagram
 <img src = "https://github.com/NikePrasetyo/Tugas-Besar-Pbo-Kelompok-7/blob/main/Class%20Diagram.jpg ">
-# ImplementasiOOPJavascript, selainimplementasiOOP,kamijugamengimplementasikan :
 
+# Class Diagram
 . Constructor dalam class
 . Node module exports
 
