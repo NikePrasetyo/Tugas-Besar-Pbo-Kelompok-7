@@ -5,10 +5,10 @@ S1S303B Software Engineer
 1. Yolanda Al Hidayah Pasaribu - 19104057
 2. Novi rahmawati - 19104079
 3. Nike Prasetyo - 19104068
-# Class Diagram
+## Class Diagram
 <img src = "https://github.com/NikePrasetyo/Tugas-Besar-Pbo-Kelompok-7/blob/main/Class%20Diagram.jpg ">
 
-# Implementasi OOP Javascript selain implementasi OOP kami juga mengimplementasikan :
+## Implementasi OOP Javascript selain implementasi OOP kami juga mengimplementasikan :
 1. Constructor dalam class
 2. Node module exports
 
