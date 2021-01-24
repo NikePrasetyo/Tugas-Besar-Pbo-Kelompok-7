@@ -23,5 +23,10 @@ Program Pendataan dan peminjaman buku pada perpustakaan, merupakan program yang 
 ## Package Yang Digunakan
 https://www.npmjs.com/package/prompt-sync
 
+## Demo Project & Video Penjelasan
+https://repl.it/join/dayryeso-yolandapasaribu
+
+
+
 
 
