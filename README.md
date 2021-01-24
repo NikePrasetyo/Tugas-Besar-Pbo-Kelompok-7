@@ -11,7 +11,7 @@ Program Pendataan dan peminjaman buku pada perpustakaan, merupakan program yang 
 
 ## Class Diagram
 
-WhatsApp Image 2021-01-24 at 14.43.35.jpeg
+( <img src = " ">)
 
 ## Implementasi OOP Javascript pada program ini :
 1. Constructor pada class buku
