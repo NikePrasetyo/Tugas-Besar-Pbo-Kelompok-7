@@ -10,8 +10,8 @@ S1S303B Software Engineering
 Program Pendataan dan peminjaman buku pada perpustakaan, merupakan program yang digunkan untuk mendata buku dimana terdapat tambah data buku, cari data buku, edit data buku, dan lihat daftar semua buku. Kemudian terdapat pendataan peminjaman dimana terdapat tambah data peminjaman dan cetak data peminjaman pada perustakaan
 
 ## Class Diagram
-https://github.com/NikePrasetyo/Tugas-Besar-Pbo-Kelompok-7/blob/main/WhatsApp%20Image%202021-01-24%20at%2014.43.35.jpeg?raw=true
 
+WhatsApp Image 2021-01-24 at 14.43.35.jpeg
 
 ## Implementasi OOP Javascript pada program ini :
 1. Constructor pada class buku
