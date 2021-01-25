@@ -20,7 +20,7 @@ Program Pendataan dan peminjaman buku pada perpustakaan, merupakan program yang 
 4. class peminjaman terdapat modul Constructor
 5. Terdapat Objek baru dataMhs pada class peminjaman
 
-<img src = "https://github.com/NikePrasetyo/Tugas-Besar-Pbo-Kelompok-7/blob/main/Output.gif.mp4 ">
+<img src = "https://github.com/NikePrasetyo/Tugas-Besar-Pbo-Kelompok-7/blob/main/Output.gif">
 
 ## Package Yang Digunakan
 https://www.npmjs.com/package/prompt-sync
