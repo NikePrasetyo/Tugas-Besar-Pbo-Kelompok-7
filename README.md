@@ -28,7 +28,7 @@ https://www.npmjs.com/package/prompt-sync
 ## Demo Project & Video Penjelasan
 https://repl.it/join/dayryeso-yolandapasaribu
 
-https://youtu.be/uLbNEOSJhAk
+https://www.youtube.com/watch?v=8mWDjj30l50
 
 
 
