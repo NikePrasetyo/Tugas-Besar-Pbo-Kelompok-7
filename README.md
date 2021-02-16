@@ -19,6 +19,13 @@ Oleh sebab itu, akan dibuat sebuah aplikasi yang dapat mengelola dan mencatat se
 2.	Mempermudah proses peminjaman dengan adanya daftar peminjaman buku 
 3.	Mempermudah dalam pencarian peminjaman buku anggota perpustakaan
 
+## Fitur
+Kami memilki berberapa fitur yang anda bisa dapatkan, seperti :
+1.	Menambah dan mengedit data buku
+2.	Melihat daftar buku peminjaman
+3.	Melihat data peminjaman
+
+
 ## Class Diagram
 
 <img src = "https://github.com/NikePrasetyo/Tugas-Besar-Pbo-Kelompok-7/blob/main/Class%20Diagram.jpeg">
