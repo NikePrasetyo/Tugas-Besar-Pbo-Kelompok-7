@@ -9,6 +9,16 @@ S1S303B Software Engineering
 ## Deskripsi Umum
 Program Pendataan dan peminjaman buku pada perpustakaan, merupakan program yang digunkan untuk mendata buku dimana terdapat tambah data buku, cari data buku, edit data buku, dan lihat daftar semua buku. Kemudian terdapat pendataan peminjaman dimana terdapat tambah data peminjaman dan cetak data peminjaman pada perustakaan
 
+## Latar Belakang
+Perpustakaan adalah salah satu bagian kelengkapan yang harus ada disetiap lembaga pendidikan formal maupun non-formal diberbagai tingkatan. Seiring dengan perkembangan teknologi, sistem terkomputerisasi menjadi suatu kebutuhan dalam segala unit usaha. Selain unit usaha terdapat juga unit perpustakaan yang memiliki peran sebagai salah satu tempat untuk mencari informasi. Unit perpustakaan pada dasarnya membutuhkan pengelolaan terhadap aset-aset yang dimilikinya seperti pendataan aset, proses transaksi pinjam-meninjam, pengembalian, dan perpanjangan aset, serta pendataan aset yang rusak maupun hilang.
+  
+Oleh sebab itu, akan dibuat sebuah aplikasi yang dapat mengelola dan mencatat semua transaksi yang dilakukan oleh perpustakaan APAYA. Sistem aplikasi perpustaan ini didasari agar adanya kemudahan dalam mendata buku yang tersedia dalam perpustakaan dan pendataan peminjaman buku anggota perpustakaan.
+
+## Tujuan
+1.	Mempermudah dalam proses pendataan buku yang tersedia dan memperbaharui buku yang tersedia
+2.	Mempermudah proses peminjaman dengan adanya daftar peminjaman buku 
+3.	Mempermudah dalam pencarian peminjaman buku anggota perpustakaan
+
 ## Class Diagram
 
 <img src = "https://github.com/NikePrasetyo/Tugas-Besar-Pbo-Kelompok-7/blob/main/Class%20Diagram.jpeg">
